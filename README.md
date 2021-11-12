@@ -7,7 +7,7 @@ Include the date you created this project and README file.:12/11/2021
 Replace the Project Title: pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+Describe what your project is about and what it does: bikeshare information from three cities
 
 ### Files used
 Include the files used
