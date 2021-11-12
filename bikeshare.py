@@ -24,7 +24,7 @@ def get_filters():
             #city in CITY_DATA
             break
         except:
-            print ('That\'s not a valid city!')
+            print ('That\'s not a valid city! It should be Chicago, New York City, or Washington.')
 
     #filter_opts = ['month', 'day', 'both', 'none']
     while True:
